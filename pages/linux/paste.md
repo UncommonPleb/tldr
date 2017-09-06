@@ -6,10 +6,10 @@ Paste command merges the lines from multiple files.
 
 The options of paste command are:
 
-' -d : Specify of a list of delimiters.'
+'Specify of a list of delimiters : -d.'
 
-' -s : Paste one file at a time instead of in parallel.'
+'Paste one file at a time instead of in parallel : -s.'
 
-' --version : version information'
+'version information : --version'
 
-' --help : Help about the paste command.'
+'Help about the paste command : --help.'
