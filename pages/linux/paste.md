@@ -2,7 +2,7 @@
 
  Paste command merges the lines from multiple files.
 
-`paste [options] files-list`
+ Example : `paste [options] files-list`
 
  The options of paste command are:
 
