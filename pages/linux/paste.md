@@ -1,10 +1,10 @@
 # paste
 
-- Paste command merges the lines from multiple files.
+ Paste command merges the lines from multiple files.
 
 `paste [options] files-list`
 
-- The options of paste command are:
+ The options of paste command are:
 
 ```
 specify of a list of delimiters : -d.
