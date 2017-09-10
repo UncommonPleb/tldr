@@ -1,19 +1,12 @@
-# paste
+# command-name
 
- > Paste command merges the lines from multiple files.
- 
- - The paste command sequentially writes the corresponding lines from each file separated by a TAB delimiter on the unix terminal.
- 
- `paste [options] files-list`
- 
- - The options of paste command are:
+> Short, snappy description.
+> Preferably one line; two are acceptable if necessary.
 
-```
-specify of a list of delimiters : -d.
+- Example description:
 
-Paste one file at a time instead of in parallel : -s.
+`command -opt1 -opt2 -arg1 {{arg_value}}`
 
-version information : --version
+- Example description:
 
-Help about the paste command : --help.
-```
+`command -opt1 -opt2`
