@@ -10,12 +10,9 @@
 - The options of paste command are:
 
 ```
-specify of a list of delimiters : -d.
-
-Paste one file at a time instead of in parallel : -s.
-
-version information : --version
-
-Help about the paste command : --help.
+-d : Specify of a list of delimiters.
+-s : Paste one file at a time instead of in parallel.
+--version : version information.
+--help : Help about the paste command.
 ```
 
