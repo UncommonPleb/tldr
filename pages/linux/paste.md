@@ -5,4 +5,8 @@
 
 - Example:
 
-`paste -d files-list`
+`paste [options] files-list`
+
+- The options of paste command are:
+
+`-d : Specify of a list of delimiters.`
