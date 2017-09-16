@@ -4,7 +4,7 @@
  
 `timeout [OPTION] DURATION COMMAND [ARG]...`
 
-> For instance:
+- For instance:
 
 `timeout 5 ./test.sh`
 
