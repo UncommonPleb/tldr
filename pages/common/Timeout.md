@@ -8,4 +8,4 @@
 
 `timeout 5 ./test.sh`
 
-> Will terminate the script after 5 seconds of execution. If you want to send a KILL signal (instead of TERM), use -kflag
+- Will terminate the script after 5 seconds of execution. If you want to send a KILL signal (instead of TERM), use -kflag
